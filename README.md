@@ -11,7 +11,7 @@ NOTICE: FORMAT YOUR USB STICK TO NTFS OR EXT FILESYSTEM!
 
 3. Open terminal and navigate to seahorse-backup-tool -folder (GitHub zip-downloading might change name to <b>seahorse-backup-tool-main</b> - still working)
 
-4. type: <pre>```chmod +x INSTALL.sh && ./INSTALL.sh```</pre>
+4. type in seahorse-backup-tool -folder: <pre>```chmod +x INSTALL.sh && ./INSTALL.sh```</pre> to give executive permissions for backup tool files.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
